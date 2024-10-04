@@ -1,0 +1,17 @@
+.search-results-page {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .search-results-page h2 {
+    margin-bottom: 15px;
+  }
+  
+  .recipe-list {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+  }
+  
